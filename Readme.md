@@ -7,7 +7,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/yourusername/teddit-cli.git
+git clone https://github.com/kid48/teddit-cli.git
 ```
 2. Перейдите в каталог проекта:
 ```bash
